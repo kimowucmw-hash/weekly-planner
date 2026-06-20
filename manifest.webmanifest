@@ -1,7 +1,7 @@
 {
   "name": "週行程",
   "short_name": "週行程",
-  "start_url": "weekly-planner.html",
+  "start_url": "index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
